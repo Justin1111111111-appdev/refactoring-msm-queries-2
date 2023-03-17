@@ -45,4 +45,4 @@ belongs_to(:director, { :class_name => "Director", :foreign_key => "director_id"
 
     #return the_one
   #end
-#end
+end
